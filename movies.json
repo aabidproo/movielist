@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021
+    },
+    {
+      "id": "3de3",
+      "title": "Puspa chapter 2",
+      "genre": "Action Thriller",
+      "year": 2024
+    },
+    {
+      "id": "3b09",
+      "title": "Agent binod",
+      "genre": "action",
+      "year": 2014
+    }
+  ]
+}
